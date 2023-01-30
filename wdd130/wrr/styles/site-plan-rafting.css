@@ -13,7 +13,7 @@ Fonts are separated by a & */
 
   /* change the values below to your chosen font(s) */
   --heading-font: "Robot";
-  --paragraph-font: Raleway; Helvetica, sans-serif;
+  --paragraph-font: Raleway; swap, sans-serif;
  
   /* these colors below should be chosen from among your palette colors above */
   --headline-color-on-white: #78a6d5; /* hea78a6d5dlines on a white background */ 
